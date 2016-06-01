@@ -1,0 +1,12 @@
+{
+    "clean": {
+        "img":     ["png","jpg","jpeg","JPG","tiff"],
+        "install": ["zip","bz2","dmg","pkg","gz","tar"],
+        "docs":    ["xlsx","csv","pdf","ps","docx","txt","doc","ppt","tex", "pptx"],
+        "music":   ["mp3"],
+        "video":   ["mp4","avi","mpg"],
+        "code":    ["py","js","css","html","java","cpp","sh","db","s","scpt","jar","vcd"]
+    },
+    "delete": ["swp","o","v"],
+    "ignore": ["download","iso","log"]
+}
